@@ -1,0 +1,106 @@
+SubjectID	Study	Sex	Age	Education	Class	Later	Followup	BMI	Race	IR_IS	SSPG	SSPG.Date	Transition	Transition.2
+ZJOSZHK	HMP	M	41.43	NA	Prediabetic	converter	converter	19.42	NA	NA	NA		Prediabetic-converter	Yes
+ZJTKAE3	HMP	F	58.65	Bachelor	Control	NA	Control	31.24	C	IR	162	10/21/2013	Control-Control	No
+ZJXC41N	HMP, Exercise	F	49.69	Associate	Prediabetic	NA	Prediabetic	28.24	B	IS	75	10/15/2013	Prediabetic-Prediabetic	No
+ZK01UI6	HMP	M	57.78	Master	Control	NA	Control	26.7	A	NA	NA		Control-Control	No
+ZK112BX	HMP, Exercise	F	57.72	Master	Crossover	converter	converter	28.89	A	IR	234	5/7/2013	Crossover-converter	Yes
+ZK4CK8Y	HMP, Exercise	F	50.02	Bachelor	Prediabetic	NA	Prediabetic	26.94	C	IS	40	4/23/2013	Prediabetic-Prediabetic	No
+ZKFV71L	HMP, Exercise	F	66.08	Master	Prediabetic	cgm.abnormal	cgm.abnormal	32.54	B	IS	65	5/6/2015	Prediabetic-cgm.abnormal	Yes
+ZKVR426	HMP	F	61.95	Master	Prediabetic	cgm.abnormal	cgm.abnormal	30.59	C	IR	174	7/8/2013	Prediabetic-cgm.abnormal	Yes
+ZL63I8R	HMP, Exercise	M	62.88	Some College	Prediabetic	cgm.abnormal	cgm.abnormal	32.94	C	IR	220	12/18/2012	Prediabetic-cgm.abnormal	Yes
+ZL9BTWF	HMP, Exercise	M	64.56	Bachelor	Prediabetic	cgm.abnormal	cgm.abnormal	26.69	C	IS	99	1/15/2013	Prediabetic-cgm.abnormal	Yes
+ZLGD9M0	HMP	M	67.9	Master	Prediabetic	NA	Prediabetic	29.53	C	IS	62	9/11/2012	Prediabetic-Prediabetic	No
+ZLPRB8E	HMP	F	50.9	Some College	Prediabetic	NA	Prediabetic	26.86	B	IS	70	7/17/2012	Prediabetic-Prediabetic	No
+ZLPZS0H	HMP	M	51.13	Master	Control	NA	Control	29.31	A	IR	175	6/1/2012	Control-Control	No
+ZLTUJTN	HMP, Exercise	M	60.71	Master	Prediabetic	NA	Prediabetic	34.15	C	IR	235	5/30/2012	Prediabetic-Prediabetic	No
+ZLYEM2C	HMP	M	38.8	Bachelor	Prediabetic	NA	Prediabetic	22.51	A	IS	92	3/31/2015	Prediabetic-Prediabetic	No
+ZLZNCLZ	HMP, Exercise	M	54.74	Master	Prediabetic	NA	Prediabetic	27.33	C	IS	130	9/1/2017	Prediabetic-Prediabetic	No
+ZLZQMEV	HMP, Exercise	F	61	High School	Crossover	converter	converter	29.99	H	IR	221	11/12/2013	Crossover-converter	Yes
+ZM7JY3G	HMP, Exercise	M	60.18	Bachelor	Crossover	unconfirmed	unconfirmed	26	A	IR	160	11/12/2013	Crossover-unconfirmed	Yes
+ZM8YXDM	HMP	M	45.43	Master	Prediabetic	NA	Prediabetic	26.71	C	IR	212.13	6/30/2015	Prediabetic-Prediabetic	No
+ZMBH10Z	HMP	F	54.16	Some College	Crossover	unconfirmed	unconfirmed	31.28	B	IS	117	10/14/2013	Crossover-unconfirmed	Yes
+ZMBVNFM	HMP, Exercise	M	59.25	Bachelor	Prediabetic	NA	Prediabetic	23.82	A	IS	87	10/8/2013	Prediabetic-Prediabetic	No
+ZMGT937	HMP	M	33.79	Doctor	Prediabetic	NA	Prediabetic	26.44	A	NA	NA		Prediabetic-Prediabetic	No
+ZMS5W76	HMP	F	49.97	NA	Prediabetic	NA	Prediabetic	32.73	H	IR	224		Prediabetic-Prediabetic	No
+ZN0JE53	HMP	M	66.81	Master	Prediabetic	NA	Prediabetic	33.32	B	IS	148	6/25/2013	Prediabetic-Prediabetic	No
+ZN3TBJM	HMP, Exercise	F	67.47	Doctor	Prediabetic	NA	Prediabetic	30.18	C	IS	133.5	2/3/2015	Prediabetic-Prediabetic	No
+ZN9TKCJ	HMP, Exercise	F	46.04	Bachelor	Control	NA	Control	25.26	C	NA	NA		Control-Control	No
+ZN9YTFN	HMP	F	60.18	High School	Prediabetic	NA	Prediabetic	32.21	H	IS	140	1/13/2015	Prediabetic-Prediabetic	No
+ZNDMXI3	HMP	F	44.81	Bachelor	Prediabetic	converter	converter	34.49	A	IR	184		Prediabetic-converter	Yes
+ZNED4XZ	HMP	F	59.21	Bachelor	Crossover	converter	converter	31.64	C	NA	NA		Crossover-converter	Yes
+ZNQOVZV	HMP	F	64.81	NA	Prediabetic	NA	Prediabetic	28.74	C	NA	NA		Prediabetic-Prediabetic	No
+ZO3XSJN	HMP	M	49.18	Doctor	Prediabetic	NA	Prediabetic	23.22	C	NA	NA		Prediabetic-Prediabetic	No
+ZO5QFNX	HMP	F	56.22	Doctor	Prediabetic	NA	Prediabetic	30.61	A	NA	NA		Prediabetic-Prediabetic	No
+ZO94RDZ	HMP	M	61.17	Doctor	Prediabetic	NA	Prediabetic	27.06	C	NA	NA		Prediabetic-Prediabetic	No
+ZO9UWDL	HMP	M	65.24	Doctor	Control	NA	Control	26.76	C	NA	NA		Control-Control	No
+ZOBX723	HMP, Exercise	M	58.02	Doctor	Prediabetic	NA	Prediabetic	30.98	C	NA	NA		Prediabetic-Prediabetic	No
+ZODIOFW	HMP	F	57.86	Master	Crossover	NA	Crossover	26.69	A	NA	NA		Crossover-Crossover	No
+ZOQM06Q	HMP	F	25.91	Bachelor	Prediabetic	NA	Prediabetic	19.37	A	NA	NA		Prediabetic-Prediabetic	No
+ZOQSGYW	HMP	M	58.4	Master	Crossover	NA	Crossover	21.86	A	NA	NA		Crossover-Crossover	No
+ZOZOW1T	HMP, Exercise	M	59.48	Doctor	Diabetic	converter	Diabetic	21.47	C	IS	91.5	8/7/2014	Diabetic-Diabetic	No
+ZP0DXQ0	HMP	F	59.12	Doctor	Prediabetic	NA	Prediabetic	25.91	A	IS	111	5/1/2017	Prediabetic-Prediabetic	No
+ZPDABJR	HMP, Exercise	M	54.02	Doctor	Prediabetic	NA	Prediabetic	24.99	A	IS	93	7/12/2017	Prediabetic-Prediabetic	No
+ZPEL6L3	HMP, Exercise	F	52.33	Doctor	Prediabetic	NA	Prediabetic	24.44	C	IS	57	7/7/2017	Prediabetic-Prediabetic	No
+ZPF36E2	HMP, Exercise	M	68.82	NA	Crossover	unconfirmed	unconfirmed	25.99	C	IR	159	4/10/2018	Crossover-unconfirmed	Yes
+ZPJT5MY	HMP	F	48.86	Associate	Prediabetic	NA	Prediabetic	37.42	C	IR	257	5/6/2016	Prediabetic-Prediabetic	No
+ZPMBHPS	HMP, Exercise	F	54.39	Bachelor	Prediabetic	NA	Prediabetic	32.29	H	IS	104	10/22/2015	Prediabetic-Prediabetic	No
+ZPXU188	HMP	F	60.95	NA	Crossover	NA	Crossover	36.64	C	NA	NA		Crossover-Crossover	No
+ZQEFRDE	HMP	M	55.92	Bachelor	Prediabetic	NA	Prediabetic	27.34	C	IR	166	10/22/2015	Prediabetic-Prediabetic	No
+ZQFL1P3	HMP	F	65.41	Bachelor	Prediabetic	cgm.abnormal	cgm.abnormal	29.41	C	IS	62	8/27/2017	Prediabetic-cgm.abnormal	Yes
+ZQMVU4Q	HMP	F	52.94	Some College	Crossover	NA	Crossover	23.31	H	IR	222	11/16/2015	Crossover-Crossover	No
+ZQNZSQF	HMP	F	41.65	Bachelor	Prediabetic	NA	Prediabetic	40.83	C	NA	NA		Prediabetic-Prediabetic	No
+ZR3WH7V	HMP	M	48.97	Master	Prediabetic	NA	Prediabetic	29.18	C	NA	NA		Prediabetic-Prediabetic	No
+ZR47VBL	HMP, Exercise	M	52.46	Doctor	Prediabetic	NA	Prediabetic	25.2	A	IR	161	8/4/2015	Prediabetic-Prediabetic	No
+ZRA5YD8	HMP	F	39.39	Doctor	Control	NA	Control	19.1	A	NA	NA		Control-Control	No
+ZRB0F6P	HMP, Exercise	F	53.68	Some College	Prediabetic	NA	Prediabetic	38.9	H	IR	223	5/11/2011	Prediabetic-Prediabetic	No
+ZRGK7U8	HMP	M	47.19	Bachelor	Prediabetic	NA	Prediabetic	30.33	H	IS	71	7/14/2015	Prediabetic-Prediabetic	No
+ZRLZ98T	HMP	F	56.13	Master	Control	NA	Control	24.54	C	IS	129	3/11/2016	Control-Control	No
+ZS2DMX7	HMP	F	45.06	Doctor	Prediabetic	NA	Prediabetic	24.89	C	IS	61	10/28/2015	Prediabetic-Prediabetic	No
+ZS78KHV	HMP, Exercise	M	46.05	Doctor	Control	NA	Control	27.99	C	NA	NA		Control-Control	No
+ZSMO1UM	HMP	M	45.68	Master	Prediabetic	NA	Prediabetic	23.66	C	NA	NA		Prediabetic-Prediabetic	No
+ZSOZWGV	HMP	M	61.94	Bachelor	Crossover	NA	Crossover	29.47	C	IR	224.6	6/23/2015	Crossover-Crossover	No
+ZSQNUZ5	HMP	M	69.79	Master	Crossover	NA	Crossover	24.76	C	NA	NA		Crossover-Crossover	No
+ZSUQ08V	HMP	M	68.86	Associate	Crossover	NA	Crossover	37.38	C	NA	NA		Crossover-Crossover	No
+ZTJ7L7Z	HMP, Exercise	M	63.04	Doctor	Crossover	undiagnosed	converter	24.07	A	IR	155.37	8/4/2015	Crossover-converter	Yes
+ZTL5S2Y	HMP, Exercise	M	75.23	Doctor	Prediabetic	NA	Prediabetic	22.13	C	NA	NA		Prediabetic-Prediabetic	No
+ZTL8083	HMP	M	73.4	Doctor	Prediabetic	NA	Prediabetic	32.19	C	NA	NA		Prediabetic-Prediabetic	No
+ZTLIFAS	HMP	F	48.32	Master	Prediabetic	NA	Prediabetic	27.91	H	IS	76	9/17/2015	Prediabetic-Prediabetic	No
+ZTLUDS8	HMP	M	50.19	Master	Prediabetic	NA	Prediabetic	21.71	C	NA	NA		Prediabetic-Prediabetic	No
+ZTMFN3O	HMP	F	40.98	Master	Prediabetic	NA	Prediabetic	23.16	A	IS	90	8/6/2015	Prediabetic-Prediabetic	No
+ZTTL3YH	HMP	M	45.43	Master	Control	NA	Control	33.3	C	IR	162		Control-Control	No
+ZTUO1AO	HMP	F	44	Master	Control	NA	Control	29.41	C	IR	225		Control-Control	No
+ZTXWLP3	HMP, Exercise	M	40.26	Doctor	Control	NA	Control	25.28	C	NA	NA		Control-Control	No
+ZTXY83G	HMP	M	54.37	Master	Control	NA	Control	33.46	C	IR	220	3/11/2015	Control-Control	No
+ZUC2YGO	HMP	M	29.18	Master	Prediabetic	NA	Prediabetic	23.4	C	NA	NA		Prediabetic-Prediabetic	No
+ZUF48YS	HMP	F	69.44	Master	Prediabetic	unconfirmed	unconfirmed	26.04	C	NA	NA		Prediabetic-unconfirmed	Yes
+ZUG7QHE	HMP	M	71.56	Master	Prediabetic	NA	Prediabetic	26.85	C	NA	NA		Prediabetic-Prediabetic	No
+ZUHT69X	HMP	M	32.33	Master	Control	NA	Control	24.05	C	NA	NA		Control-Control	No
+ZUL3S6O	HMP, Exercise	M	56.73	Doctor	Prediabetic	NA	Prediabetic	24.66	C	IS	100.5	2/3/2015	Prediabetic-Prediabetic	No
+ZUPAQVU	HMP, Exercise	M	58.19	Some College	Prediabetic	unconfirmed	unconfirmed	27.59	C	IR	220	12/9/2014	Prediabetic-unconfirmed	Yes
+ZV14SIB	HMP	M	60.5	Doctor	Crossover	converter	converter	25.19	C	IS	58	11/20/2015	Crossover-converter	Yes
+ZV1ZA6Z	HMP	M	50.53	Doctor	Prediabetic	NA	Prediabetic	26.17	C	NA	NA		Prediabetic-Prediabetic	No
+ZVBQY1N	HMP, Exercise	M	57.04	Bachelor	Prediabetic	NA	Prediabetic	28.68	C	IR	250	11/25/2014	Prediabetic-Prediabetic	No
+ZVC4YUG	HMP	F	47.52	Master	Prediabetic	NA	Prediabetic	27.49	A	IR	217.8	11/7/2014	Prediabetic-Prediabetic	No
+ZVGW5FI	HMP	F	50.98	Bachelor	Control	NA	Control	25.72	A	IS	110.88	5/13/2015	Control-Control	No
+ZVM4N7A	HMP, Exercise	F	51.58	Master	Prediabetic	cgm.abnormal	cgm.abnormal	28.81	C	IR	190	9/26/2014	Prediabetic-cgm.abnormal	Yes
+ZVNCGHM	HMP, Exercise	M	44.41	Master	Crossover	NA	Crossover	24.01	C	IS	67.13	10/28/2014	Crossover-Crossover	No
+ZVTCAK9	HMP	F	54.36	Associate	Control	NA	Control	29.25	C	IS	51		Control-Control	No
+ZW61YGW	HMP, Exercise	M	55.86	Bachelor	Prediabetic	cgm.abnormal	cgm.abnormal	28.63	C	IR	178.75	8/20/2014	Prediabetic-cgm.abnormal	Yes
+ZWCZHHY	HMP, Exercise	M	67.09	NA	Prediabetic	NA	Prediabetic	28.4	A	IR	174	7/21/2014	Prediabetic-Prediabetic	No
+ZWFDEY0	HMP, Exercise	F	62.92	Master	Prediabetic	NA	Prediabetic	30.79	A	IR	257.5	8/6/2014	Prediabetic-Prediabetic	No
+ZWHMV5E	HMP	F	62.8	Master	Prediabetic	NA	Prediabetic	33.96	C	IR	191	7/9/2014	Prediabetic-Prediabetic	No
+ZWLGEWL	HMP	F	63.26	Bachelor	Prediabetic	NA	Prediabetic	31.41	B	IR	274	8/8/2014	Prediabetic-Prediabetic	No
+ZX52KVK	HMP	F	60.6	Master	Prediabetic	NA	Prediabetic	27.04	C	IR	188	4/15/2015	Prediabetic-Prediabetic	No
+ZXHCGKV	HMP	F	31.37	Doctor	Prediabetic	converter	converter	20.25	A	NA	NA		Prediabetic-converter	Yes
+ZXKBAO5	HMP	M	52.25	Bachelor	Prediabetic	NA	Prediabetic	27.52	C	NA	NA		Prediabetic-Prediabetic	No
+ZXSDNAK	HMP	F	53.72	Master	Control	NA	Control	29.49	H	NA	NA		Control-Control	No
+ZXSO14L	HMP	F	36.57	Some College	Control	NA	Control	29.1	C	IS	65		Control-Control	No
+ZY1ZKJY	HMP	F	60.34	Bachelor	Control	NA	Control	33.33	C	IS	119	12/11/2013	Control-Control	No
+ZY39SN0	HMP	F	56.26	Master	Prediabetic	NA	Prediabetic	35.26	C	NA	NA		Prediabetic-Prediabetic	No
+ZY7IW45	HMP, Exercise	F	69	Bachelor	Prediabetic	NA	Prediabetic	36.36	C	IR	276	4/2/2014	Prediabetic-Prediabetic	No
+ZY9XQJP	HMP	M	63.45	Some College	Prediabetic	NA	Prediabetic	29.31	C	IR	151	2/28/2014	Prediabetic-Prediabetic	No
+ZYHHR4Z	HMP, Exercise	F	43.99	Master	Diabetic	NA	Diabetic	26.47	C	NA	NA		Diabetic-Diabetic	No
+ZYKZ9HQ	HMP	F	55.62	Master	Prediabetic	NA	Prediabetic	29.94	C	NA	NA		Prediabetic-Prediabetic	No
+ZYLJ7R7	HMP	F	40.97	Doctor	Control	NA	Control	23.45	A	NA	NA		Control-Control	No
+ZYU89T9	HMP	F	60.19	NA	Prediabetic	NA	Prediabetic	29.83	C	NA	NA		Prediabetic-Prediabetic	No
+ZYXQKWY	HMP	F	50.7	Master	Prediabetic	NA	Prediabetic	32.59	C	IR	158.5	11/18/2014	Prediabetic-Prediabetic	No
